@@ -1,0 +1,5 @@
+{
+  "name": "AI Regex Builder",
+  "description": "A comprehensive tool to build, test, and understand regular expressions. Features an AI-powered generator and explainer, a block-based builder for visual construction, and a library of over 100 common regex patterns.",
+  "requestFramePermissions": []
+}
